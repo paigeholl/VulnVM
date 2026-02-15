@@ -8,9 +8,9 @@ Search for "Virtual Machines" and select Create > Azure virtual machine
 
 ## **Basics Tab:**
 
-Select your Resource Group: **Cyber Range 2**
+Select your Subscription and Resource Group: 
 
-<img src=https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_qrGwXAppuTrQITEmYe.png width=400px>
+
 
 Set Region to **East US 2**
 
